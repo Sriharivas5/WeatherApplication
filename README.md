@@ -1,8 +1,14 @@
-# React + Vite
+# Retro-themed Snake and Ladder Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a modern take on the classic board game, Snake and Ladder, built with React JS. It features an interactive, retro-themed user interface with responsive buttons and vintage graphics, providing a nostalgic gaming experience.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Interactive Game Play**: Clickable buttons to roll the dice and animated movements of tokens on the board.
+- **Retro Theme**: Aesthetically designed with a retro color scheme and elements reminiscent of classic arcade styles.
+- **Multiplayer Mode**: Play with friends and enjoy the game.
+
+## Live Demo
+
+You can try out the game [here](#). 
+
